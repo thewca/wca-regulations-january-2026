@@ -46,7 +46,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 2c+) [ADDITION] First-time competitors must register using their legal name or the name they prefer to be called in real life. Last names must be legal last names.
 - 2c2+) [CLARIFICATION] A WCA profile is the collection of data related to a competitor, and includes their personal information (name, country, gender, and date of birth) as well as all their results in official WCA competitions.
 - 2d+) [ADDITION] Date of birth and contact information should be especially secured.
-- 2d++) [RECOMMENDATION] If a third party (e.g. journalist) asks the organization team to be put in contact with any competitor(s), the competitor(s) should first be asked for consent.
+- 2d++) [REMINDER] If a third party (e.g. journalist) asks the organization team to be put in contact with any competitor(s), the competitor(s) must first be asked for consent.
 - 2e+) [CLARIFICATION] If a competitor holds multiple citizenships, they may choose which region to represent at their first competition.
 - 2e++) [ADDITION] The WCA Delegate should also verify the name and date of birth by means of documents or photos of documents (e.g. a passport) of every new competitor at their first competition.
 - 2e3+) [CLARIFICATION] Stateless competitors have no national records and rankings, nor continental records and rankings.
