@@ -119,7 +119,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 
 ## <article-3><puzzles><puzzles> Article 3: Puzzles
 
-- 3a) Competitors must provide their own puzzles for the competition.
+- 3a) Competitors are responsible for providing their puzzles for the competition.
     - 3a1) Competitors must be ready to submit their puzzles when they are called (see [Regulation 2u](regulations:regulation:2u)).
     - 3a2) Puzzles must be fully operational, such that normal scrambling is possible.
     - 3a3) Polyhedral puzzles must use a color scheme with one unique color per face in the solved state. Each puzzle variation must have moves, states, and solutions functionally identical to the original puzzle.
