@@ -56,6 +56,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 2i++++) [CLARIFICATION] The competitor is considered to be using an electronic device only if they are putting it to a particular purpose.
 - 2i+++++) [EXAMPLE] Examples that are not considered using an electronic device: moving a camera, flipping over a phone, wearing a smartwatch.
 - 2i++++++) [EXAMPLE] Examples of using an electronic device: pressing a camera button, checking a message on a phone or smartwatch.
+- 2i+++++++) [CLARIFICATION] Devices which were previously electronic but have their electronic parts removed may be permitted, at the discretion of the WCA Delegate.
 - 2i1b+) [CLARIFICATION] This includes relevant devices which are switched off or disconnected.
 - 2i2+) [CLARIFICATION] The competitor may hold or wear a camera anywhere, as long as the live feed of the camera is not visible to the competitor.
 - 2j2+) [EXAMPLE] For example, if a competitor is disqualified from an event for failing to show up for the final round, their results from earlier rounds remain valid.
