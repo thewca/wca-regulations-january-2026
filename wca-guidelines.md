@@ -231,6 +231,7 @@ To be more informative, each Guideline is classified using one of the following 
 - E2c4+) [CLARIFICATION] Examples of symbols or combinations of symbols that are not permitted in solutions for 3x3x3 Fewest Moves: M, e, r, Y (uppercase), T, U1, Ui, U3, U-, R++, R2', R'2, L'w, 1R, 2U, 2f, 2-3r, 1Rw, 3Rw, 2-3Rw, rw, Rr, *, →, ⮐, /, ., ?, [r], [r u], [F], &lt;f&gt;, [f]', [f]2, [x], (x), (L), 2(Rw), (U)2, (U)', (R U)', (R U R'), [R, U], [R: U].
 - E2e+) [CLARIFICATION] Competitors must not derive solutions from any part of the scramble sequence, and solutions should not share significant parts with the inverse scramble sequence.
 - E2e++) [EXAMPLE] Example of solutions that should result in a disqualification of the attempt (DNF): solutions beginning with the same 4 or more moves as the inverse scramble sequence.
+- E3b+) [CLARIFICATION] Puzzles do not need to be solved at the start of the attempt.
 - E3d+) [CLARIFICATION] Any stopwatch or watch used by a competitor must not have any functions that would help the competitor find a solution.
 - E3d++) [CLARIFICATION] Competitors should not consider a personal stopwatch or watch as the official time, and must submit their solution when the judge calls "STOP".
 
