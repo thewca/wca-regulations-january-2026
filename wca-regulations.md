@@ -509,6 +509,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - E2a1) Before the attempt has begun, the competitor must not write on any paper intended for the attempt. Exception: the competitor may write information to identify the attempt (see [Regulation E2c1](regulations:regulation:E2c1)). If they write this information on the paper that contains the scramble sequence, they must write only on the side without the scramble sequence before the attempt. Penalty for writing anything other than information to identify the attempt: disqualification of the attempt (DNF).
     - E2b) All competitors have a total time limit of 60 minutes to find and write a solution.
         - E2b1) The judge should call "5 MINUTES REMAINING" at 55 minutes, and must call "STOP" at 60 minutes.
+        - E2b2) If a competitor joins an attempt that is already in progress (see [Regulation E6](regulations:regulation:E6)), their time limit is the time remaining (i.e. they must finish when other competitors reach their 60 minute time limit).
     - E2c) At 60 minutes, each competitor must submit to the judge a single piece of paper with a written solution and information to identify the attempt.
         - E2c1) Information to identify the attempt is: the competitor's name, WCA ID, or competition registrant ID (at least one, optionally multiple), and optionally the competition name, round, or attempt number. Penalty for a submitted solution without name, WCA ID, or competition registrant ID: disqualification of the attempt (DNF).
         - E2c2) The solution must be a single unambiguous move sequence with each individual move written out in sequential order. Penalty for an ambiguous solution: disqualification of the attempt (DNF).
@@ -528,6 +529,10 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - E3f) Tools to remove markings (self-supplied), such as correction fluid, correction tape, or erasers.
 - E4) The WCA Delegate may choose to publish the solutions (e.g. photo of the score sheets or transcriptions of solutions).
 - E5) The competitor must not communicate with anyone other than the WCA Delegate or the judge. This communication should be about the WCA Regulations and the competitor must not receive assistance deriving their solution. Penalty: disqualification of the attempt (DNF).
+- E6) A competitor may join a 3x3x3 Fewest Moves attempt that is already in progress, at the discretion of the WCA Delegate. Exception: a competitor must not be permitted to join an ongoing attempt in the following cases:
+    - E6a) A competitor has finished their attempt already (see [Guideline E2b+](guidelines:guideline:E2b+)).
+    - E6b) The attempt takes place in a competition with multiple physical locations (i.e. "3x3x3 Fewest Moves simultaneous competitions").
+    - E6c) There is any risk that information about the scramble may have become known to the competitor who wishes to join.
 
 
 ## <article-F><clock><clocksolving> Article F: Clock Solving
