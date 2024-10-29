@@ -129,6 +129,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 9f4+) [CLARIFICATION] The result of an attempt should be a DNF if the competitor began the attempt by indicating that they are ready (see [Regulation A3b2](regulations:regulation:A3b2)) but the attempt was disqualified.
 - 9f5+) [CLARIFICATION] If the competitor did not qualify for an attempt (e.g. in a Cutoff Round), they have no result for the attempt.
 - 9p2+) [CLARIFICATION] Result refers to the single or average that determines the ranking of the corresponding round.
+- 9p3+) [CLARIFICATION] If a non-qualifying competitor would replace a qualifying competitor in this way, they may also withdraw, allowing the next best-ranked competitor to take their place.
 - 9q+) [RECOMMENDATION] Events and rounds should have at least 2 competitors.
 - 9t+) [EXPLANATION] Because of [9t1](regulations:regulation:9t1) and [9t2](regulations:regulation:9t2), rounds may look like they do not comply with [9p1](regulations:regulation:9p1), [9m1](regulations:regulation:9m1), [9m2](regulations:regulation:9m2) or [9m3](regulations:regulation:9m3). However, making changes to comply to these rules would affect innocent competitors, which is why the results must stay the same.
 - 9t++) [ADDITION] If the change of results happens during the competition, this rule must also be applied. In that case, [9t1](regulations:regulation:9t1), [9t2](regulations:regulation:9t2) and [9t3](regulations:regulation:9t3) should also be followed, at the discretion of the WCA Delegate.
