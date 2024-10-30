@@ -49,8 +49,8 @@ To be more informative, each Guideline is classified using one of the following 
 - 2e+) [CLARIFICATION] If a competitor holds multiple citizenships, they may choose which region to represent at their first competition.
 - 2e++) [ADDITION] The WCA Delegate should also verify the name and date of birth by means of documents or photos of documents (e.g. a passport) of every new competitor at their first competition.
 - 2e3+) [CLARIFICATION] Stateless competitors have no national records and rankings, nor continental records and rankings.
-- 2i+) [ADDITION] Although the competitor may pick up a stopwatch to view the current time (when they are not blindfolded), they must not start, stop, pause, or otherwise interact with the timekeeping of the stopwatch.
-- 2i++) [ADDITION] The organization team may provide the competitor an unofficial stopwatch for viewing the elapsed time (started together with the main stopwatch), in which case the competitor is not permitted to touch the official stopwatch.
+- 2i+) [ADDITION] Although the competitor may pick up a stopwatch to view the current time (when they are not blindfolded), they must not start, stop, pause, or otherwise interact with the timekeeping of the stopwatch. Exception: The competitor may stop the stopwatch at the end of their attempt if the judge is not immediately available (see [Regulation A6a1](regulations:regulation:A6a1)).
+- 2i++) [ADDITION] The organization team may provide the competitor an unofficial stopwatch for viewing the elapsed time (started together with the main stopwatch), in which case the competitor is not permitted to touch the official stopwatch. Exception: See the exception in [Guideline 2i+](guidelines:guideline:2i+).
 - 2i+++) [REMINDER] Bluetooth puzzles are considered electronic devices.
 - 2i++++) [CLARIFICATION] The competitor is considered to be using an electronic device only if they are putting it to a particular purpose.
 - 2i+++++) [EXAMPLE] Examples that are not considered using an electronic device: moving a camera, flipping over a phone, wearing a smartwatch.
