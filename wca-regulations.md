@@ -418,7 +418,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A3c3) The competitor may reset the timer before the start of the solve.
         - A3c4) For Square-1, if the use of a thin object inside the puzzle has been enforced by the organization team (see [Regulation A2b1](regulations:regulation:A2b1)), the competitor may remove the object from the puzzle during inspection.
         - A3c5) For Square-1, the competitor should not be penalized for any accidental move made within the limits of [Regulation 10f](regulations:regulation:10f).
-    - A3d) At the end of the inspection, the competitor places the puzzle on the mat, in any orientation. Penalty for placing it outside the mat: time penalty (+2 seconds).
+    - A3d) At the end of the inspection, the competitor places the puzzle on the mat, in any orientation. The puzzle must be placed fully on the mat and must not be fully or partially resting on the Stackmat timer. Penalty: time penalty (+2 seconds).
 - A4) Starting the solve:
     - A4b) The competitor uses their fingers to touch the elevated sensor surfaces of the Stackmat timer. The competitor's palms must be facing down, and located on the side of the timer that is closer to the competitor. Penalty: time penalty (+2 seconds).
         - A4b1) The competitor must have no physical contact with the puzzle while starting the solve. Penalty: time penalty (+2 seconds).
