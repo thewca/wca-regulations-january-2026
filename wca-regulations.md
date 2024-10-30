@@ -380,6 +380,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 12h2) Clockwise, 120 degrees: R (the layer around the farthest visible bottom-right vertex), U (the layer around the farthest visible upper vertex), L (the layer around the farthest visible bottom-left vertex), B (the layer around the farthest non-visible back vertex).
     - 12h3) Counter-clockwise, 120 degrees: R' (the layer around the farthest visible bottom-right vertex), U' (the layer around the farthest visible upper vertex), L' (the layer around the farthest visible bottom-left vertex), B' (the layer around the farthest non-visible back vertex).
 - 12i) Definition: A move is considered to be any change to the puzzle state in terms of the notation defined above, including misalignments beyond the limits described in [Regulation 10f](regulations:regulation:10f).
+    - 12i1) Exception: For Clock, only changes in the position of the inner clock faces are considered to be moves. Changes to the state of the pins are not considered to be moves.
 
 
 ## <article-A><speedsolving><speedsolving> Article A: Speed Solving
@@ -542,15 +543,6 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - E6a) A competitor has finished their attempt already (see [Guideline E2b+](guidelines:guideline:E2b+)).
     - E6b) The attempt takes place in a competition with multiple physical locations (i.e. "3x3x3 Fewest Moves simultaneous competitions").
     - E6c) There is any risk that information about the scramble may have become known to the competitor who wishes to join.
-
-
-## <article-F><clock><clocksolving> Article F: Clock Solving
-
-- F1) Standard speed solving procedures are followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
-- F2) The organization team may enforce using a stand for the puzzle to prevent it from falling before the start of the attempt. If such stands are used, the organization team should make an announcement before the round starts.
-- F3) The competitor may change the state of the pins during the inspection. These changes are not counted as moves.
-- F4) The competitor must not change the state of any inner clock faces in the puzzle during the inspection. Penalty: disqualification of the attempt (DNF).
-
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multi-Blind Solving
 

@@ -187,6 +187,7 @@ To be more informative, each Guideline is classified using one of the following 
 - A2d1+) [ADDITION] If the scramble signature is found to be missing before an attempt, the puzzle should immediately be returned to a scrambler for verification and a corresponding signature.
 - A2d1++) [ADDITION] An attempt must not be disqualified solely due to a missing scramble signature. If a scramble signature is missing after the beginning of an attempt, the judge must allow the attempt to continue (if it is still in progress) and the WCA Delegate should allow the result to be kept. However, the WCA Delegate may replace the attempt with an extra attempt if they have a reason (other than the missing signature) to suspect that the scramble was incorrect.
 - A2d1+++) [REMINDER] Although the WCA Delegate may allow several individual attempts with missing scramble signatures to count, they should ensure that missing scramble signatures do not become common.
+- A3c1+) [CLARIFICATION] For Clock, the competitor may change the state of the pins during inspection (see [Regulation 12i1](regulations:regulation:12i1)).
 - A3c3+) [CLARIFICATION] The competitor may reset the timer before/during the inspection phase if the judge accidentally neglected to do so. However, it is the responsibility of the judge to make sure the timer has been reset (see [Regulation A3b](regulations:regulation:A3b)). If the competitor accidentally tries to start the solve with a timer that the judge did not reset (i.e. the competitor performs inspection, places hands on the Stackmat timer for a reasonable length of time, assumes that the timer will start normally, and starts to operate the puzzle), the attempt should be replaced by an extra attempt, at the discretion of the WCA Delegate.
 - A3c3++) [CLARIFICATION] The competitor cannot "test" or "restart" the timer during inspection, since inspection ends once the competitor starts the solve (see [Regulation A4d](regulations:regulation:A4d)). If the competitor stops the timer after they have started it for the first time, this is considered stopping the solve (see [Regulation A6](regulations:regulation:A6)), even if they do so within 15 seconds of starting inspection.
 - A3c4+) [CLARIFICATION] If the use of a thin object inside the puzzle has been enforced, the judge must not remove the object on behalf of the competitor.
@@ -242,11 +243,6 @@ To be more informative, each Guideline is classified using one of the following 
 - E3b+) [CLARIFICATION] Puzzles do not need to be solved at the start of the attempt.
 - E3d+) [CLARIFICATION] Any stopwatch or watch used by a competitor must not have any functions that would help the competitor find a solution.
 - E3d++) [CLARIFICATION] Competitors should not consider a personal stopwatch or watch as the official time, and must submit their solution when the judge calls "STOP".
-
-
-## <article-F><clock><clocksolving> Article F: Clock Solving
-
-- F1+) [REMINDER] In the past, the competitor had to place the puzzle onto the mat in a standing position. This is no longer required.
 
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multi-Blind Solving
