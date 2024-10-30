@@ -58,7 +58,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 2i++++++) [EXAMPLE] Examples of using an electronic device: pressing a camera button, checking a message on a phone or smartwatch.
 - 2i+++++++) [CLARIFICATION] Devices which were previously electronic but have their electronic parts removed may be permitted, at the discretion of the WCA Delegate.
 - 2i1b+) [CLARIFICATION] This includes relevant devices which are switched off or disconnected.
-- 2i2+) [CLARIFICATION] The competitor may hold or wear a camera anywhere, as long as the live feed of the camera is not visible to the competitor.
+- 2i2+) [CLARIFICATION] The competitor may hold or wear a camera or microphone anywhere, as long as the live feed of the camera is not visible to the competitor.
 - 2j2+) [EXAMPLE] For example, if a competitor is disqualified from an event for failing to show up for the final round, their results from earlier rounds remain valid.
 - 2j2++) [EXAMPLE] If the WCA Delegate disqualifies a competitor during their third attempt in a round, only the third attempt and all following attempts in that event are disqualified, even if the circumstances that originated the disqualification occurred prior to this attempt.
 - 2k6+) [CLARIFICATION] WCA Delegates should only use their discretion to prevent competitors from being a severe detriment to the competition (e.g. wasting time and/or competition resources). Competitors should not be disqualified for a "poor" result when they are competing to the best of their abilities.
