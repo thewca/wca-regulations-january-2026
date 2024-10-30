@@ -271,6 +271,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 9j) Each event must be held at most once per competition.
 - 9k) All competitors may participate in all events of a competition, except in cases specifically approved by the WCA Competition Announcement Team.
 - 9l) Each round must be completed before any following round of the same event can start. Exception: Extra attempts may be given at any point during a competition to replace an attempt that was initially invalid.
+    - 9l1) An attempt is considered invalid if an extra attempt is required to be granted.
 - 9m) Events must have at most four rounds.
     - 9m1) Rounds with 99 or fewer competitors must have at most two subsequent rounds.
     - 9m2) Rounds with 15 or fewer competitors must have at most one subsequent round.
