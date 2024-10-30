@@ -284,6 +284,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9p1) At least 25% of competitors must be eliminated between consecutive rounds of the same event.
     - 9p2) The competitors who advance to the next round must be determined by ranking (best X competitors) or by result (all competitors with a better result than X) in the preceding round.
         - 9p2a) For each round, advancement conditions must be announced before the round starts, and should not be changed after it has begun. Changes must be made at the discretion of the WCA Delegate, who must carefully consider the fairness of the change.
+        - 9p2b) Exception: For competitions designated as a National Championship or Continental Championship, the organization team may amend advancement conditions to reserve spaces for competitors representing the relevant region. A maximum of 8 spaces or 50% of spaces in the following round, whichever is the lower, may be reserved in this way. For a round with reserved spaces, the competitors advancing from the previous round are a reserved number of best competitors representing the relevant region, followed by the remaining best competitors representing any region.
     - 9p3) If a qualifying competitor withdraws from a round, they may be replaced by the best-ranked non-qualifying competitor from the preceding round.
     - 9p4) A competitor with results of only DNF and/or DNS is not eligible to advance.
 - 9s) Each round of each event must have a time limit (see [Regulation A1a](regulations:regulation:A1a)).

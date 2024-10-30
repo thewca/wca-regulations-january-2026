@@ -132,6 +132,9 @@ To be more informative, each Guideline is classified using one of the following 
 - 9l1+) [CLARIFICATION] A DNF Result is generally considered a valid result. Extra attempts must not be given for using a non-permitted puzzle that is only found after the round is complete (see [Regulation 3k2a](regulations:regulation:3k2a)).
 - 9l1++) [EXAMPLE] Examples of an invalid attempt: an attempt that was incorrectly scrambled, attempts where the results are no longer retrievable (e.g. a missing scorecard).
 - 9p2+) [CLARIFICATION] Result refers to the single or average that determines the ranking of the corresponding round.
+- 9p2b+) [ADDITION] If there are not enough competitors representing the relevant region to fill the reserved spaces, they are replaced with the best competitors representing any region.
+- 9p2b++) [ADDITION] For a competition designated as both a World Championship and a Continental Championship and/or National Championship, this exception does not apply. For a competition designated as both a Continental Championship and a National Championship, spaces may only be reserved for competitors representing the relevant continent.
+- 9p2b+++) [RECOMMENDATION] Any use of reserved spaces should be clearly announced before the competition.
 - 9p3+) [CLARIFICATION] If a non-qualifying competitor would replace a qualifying competitor in this way, they may also withdraw, allowing the next best-ranked competitor to take their place.
 - 9q+) [RECOMMENDATION] Events and rounds should have at least 2 competitors.
 - 9t+) [EXPLANATION] Because of [9t1](regulations:regulation:9t1) and [9t2](regulations:regulation:9t2), rounds may look like they do not comply with [9p1](regulations:regulation:9p1), [9m1](regulations:regulation:9m1), [9m2](regulations:regulation:9m2) or [9m3](regulations:regulation:9m3). However, making changes to comply to these rules would affect innocent competitors, which is why the results must stay the same.
