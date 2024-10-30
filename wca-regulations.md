@@ -461,6 +461,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A7c3) If the competitor signs (or otherwise marks) an attempt after starting the attempt but before the judge has finished recording the result, the attempt will be considered unfinished (DNF).
         - A7c4) The competitor should not sign an attempt before the judge has recorded and signed the attempt. The competitor is ultimately responsible for ensuring that they and the judge have signed an attempt. If an attempt is found to be missing one or both signatures after the judge delivered the score sheet to the score taker (see [Regulation A7f](regulations:regulation:A7f)), it will be considered unfinished (DNF).
         - A7c5) Missing signatures found before the end of the competition (see [Regulation 9u](regulations:regulation:9u)) may be added by the judge and/or the competitor, at the discretion of the WCA Delegate.
+        - A7c6) The competitor should not mark the score sheet anywhere other than in the area provided for them to sign.
     - A7f) When a competitor's score sheet for a round is complete, the judge delivers the score sheet to the score taker.
     - A7g) At the discretion of the WCA Delegate, an incident or penalty caused by a competitor's inexperience may be replaced with an extra attempt.
 
