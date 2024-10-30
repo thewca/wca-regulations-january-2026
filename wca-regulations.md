@@ -90,7 +90,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 2i1c) Non-electronic hand warmers.
         - 2i1d) Food and drink.
     - 2i2) Competitors may use cameras and/or microphones at the solving station at the discretion of the WCA Delegate, but the following restrictions apply from the start of the attempt until the competitor stops the solve. Penalty for breaking a restriction: disqualification of the attempt (DNF).
-        - 2i2a) Each camera monitor must be blank or out of sight of the competitor (see [Regulation A5b](regulations:regulation:A5b)).
+        - 2i2a) Each camera monitor must be blank or out of sight of the competitor. Exception: if a visible active monitor is discovered, completed attempts need not be disqualified if the competitor did not receive assistance from the monitor, at the discretion of the WCA Delegate (see [Regulation A5b](regulations:regulation:A5b)), however the competitor must not be permitted to perform any further attempts with such a monitor.
         - 2i2c) The competitor must not press any buttons on these devices (e.g. for starting or stopping a recording).
     - 2i4) Competitors should turn off all cell phone notifications while competing to avoid disturbing the competition.
 - 2j) The WCA Delegate may disqualify a competitor from specific attempts and/or events.
