@@ -330,7 +330,16 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 11e1) If a competitor is granted an extra attempt, the extra attempt must be scrambled using a different scramble sequence. This scramble sequence must be generated using a current official version of an official WCA scramble program (see [Regulation 4f](regulations:regulation:4f)).
     - 11e2) If a competitor is granted an extra attempt, the extra attempt should be done right after the attempt that caused it, and must replace the original regularly numbered attempt.
     - 11e3) If it is unclear whether an incident should result in an extra attempt, the competitor may be granted a provisional extra attempt that will be used only if it is later found that an extra attempt was appropriate (e.g. by a decision of the WRC).
-- 11f) Decisions about an incident may be supported with video or photographic analysis, at the discretion of the WCA Delegate.
+- 11f) Decisions about an incident may be supported with video, photographic, or audio evidence, at the discretion of the WCA Delegate.
+    - 11f1) Video, and similar forms of recorded evidence, should be reviewed in real time. Exception: slow-motion or frame-by-frame analysis may be used in the following circumstances:
+        - 11f1a) The individual result is a regional record or a personal record in the top 50 results of the world rankings.
+        - 11f1b) The average or mean the result is a part of is a regional record or a personal record in the top 50 results of the world rankings.
+        - 11f1c) The result is achieved in a final round of a National Championship, Continental Championship or World Championship.
+        - 11f1d) To support the removal of any penalty originally assessed by the judge or WCA Delegate see [Regulation 11f2a](regulations:regulation:11f2a).
+    - 11f2) Evidence obtained from slow-motion or frame-by-frame analysis may only be used to support the following decisions:
+        - 11f2a) The removal of any penalty originally assessed by the judge or WCA Delegate.
+        - 11f2b) The application of a penalty according to [Regulation A3c1](regulations:regulation:A3c1), [Regulation A4b](regulations:regulation:A4b), or [Regulation A4b1](regulations:regulation:A4b1).
+        - 11f2c) To investigate cheating (see [Regulation 2k](regulations:regulation:2k)).
 - 11g) The WCA Delegate must ensure that copies of the Regulations and Guidelines are available (e.g. printed, digital, or accessible via internet) to officials and competitors for consultation on any incidents.
 - 11h) A WCA Delegate may require competitors in serious violation of [Regulation 2k3](regulations:regulation:2k3) to leave the competition venue, taking into account the seriousness of the situation and the best possible course of action. If the competitor refuses to do so, they may face disciplinary action in the WCA.
 - 11i) If it is found that a competitor's puzzle was not scrambled correctly after they have completed their solve, the following regulations apply:
