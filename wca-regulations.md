@@ -42,7 +42,6 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 1a) A competition must include a WCA Delegate and an organization team (consisting of one or more individuals) with the following officials: judges, scramblers and score takers.
 - 1b) The organization team of a competition is responsible for logistics before, during, and after the competition.
 - 1c) The WCA Delegate is responsible for ensuring that the competition adheres to the WCA Regulations and any applicable WCA policies or requirements. The WCA Delegate may appoint other members of the organization team to carry out specific responsibilities on their behalf, but is ultimately accountable for how these responsibilities are carried out.
-    - 1c1) The WCA Delegate must ensure that the competition follows the [WCA Scramble Accountability Policy](https://documents.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf).
 - 1e) Each event must have one or more judges.
     - 1e1) A judge is responsible for executing the procedures of the event.
         - 1e1a) A judge may judge multiple competitors simultaneously at the discretion of the WCA Delegate, as long as the judge is able to ensure that all WCA Regulations are followed at all times.
@@ -82,6 +81,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 2f) Competitors must obey venue rules and conduct themselves in a considerate manner.
 - 2g) Competitors must remain quiet when inside the designated competition area. Talking is permitted, but must be kept at a reasonable level, and away from competitors who are actively competing.
     - 2g3) Competitors in a group in progress must not communicate with other competitors in the group about the scrambled states of the group, unless all such competitors are not eligible for any further attempts in the group. Penalty: disqualification of the competitor(s) from the event, at the discretion of the WCA Delegate. Exception: For 3x3x3 Fewest Moves and 3x3x3 Multi-Blind, competitors that have finished their attempt may share and discuss the scramble sequence(s) with other competitors in the group who have either finished their attempt or declined their attempt.
+        - 2g3a) For rounds where results are being entered live, the organization team may enforce that competitors are not permitted to view the results entered from their group until they have completed their attempts.
 - 2h) Competitors must be appropriately dressed while in the competition venue. At the discretion of the WCA Delegate, competitors may be disqualified from the competition for inappropriate clothing.
 - 2i) While inspecting or solving, competitors must not use electronics (e.g. cell phones, ear buds, additional lighting) apart from the Stackmat timer or stopwatch. Penalty: disqualification of the attempt (DNF). Any item which has any electronic component is considered electronic.
     - 2i1) Competitors may use non-electronic aids that do not give an unfair advantage, at the discretion of the WCA Delegate. This includes:
@@ -224,7 +224,6 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 7f3) The organization team should modify Stackmat timers to be more robust against common incidents, by making the buttons more difficult to press by accident (e.g. by attaching O-rings around the buttons) and securing the battery more firmly (e.g. by padding the battery compartment).
     - 7f4) Generation 5 Pro Timer must be used in 2-pad mode.
 - 7h) If competitors do not remain at the same station for all of their attempts in a round, the competition area must have one or more Competitor Waiting Areas. Exception: rounds with individually scheduled attempts.
-    - 7h1) The organization team may require that a competitor who has been called to compete must remain within their assigned Competitor Waiting Area until the competitor has finished all attempts for the round.
     - 7h2) Definition: A Competitor Waiting Area is an area in which competitors in a group wait at to be called to a solving station. 
 
 
@@ -398,11 +397,15 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A1b2) If a time from the Stackmat timer is available, it is the original recorded time. Otherwise (e.g. the Stackmat timer malfunctioned, ran for over 10 minutes or was not used at all), the stopwatch time is the original recorded time.
     - A1c) A competitor participating in an event must be able to fulfill the event's requirements (see [Regulation 2k6](regulations:regulation:2k6)).
 - A2) Scrambling:
-    - A2a) When called for a round, the competitor submits the puzzle, in its solved state, to the scrambler. The competitor then waits in their assigned Competitor Waiting Area until they are called to compete.
+    - A2a) When called for a round, the competitor submits a solved puzzle to the scrambler.
+        - A2a1) If a Competitor Waiting Area is in use, the competitor must remain within their assigned Competitor Waiting Area until they are called to complete an attempt. The competitor must return to their assigned Competitor Waiting Area after completing each attempt if they have more attempts in the round. Exception: competitors may leave the Competitor Waiting Area with permission from the WCA Delegate. Penalty: disqualification of the remaining attempts (DNF), at the discretion of the WCA Delegate.
+        - A2a2) If a Competitor Waiting Area is not in use, the competitor must remain at their assigned solving station until they have completed all their attempts in the round. Exception: competitors may leave their assigned solving station with permission from the WCA Delegate. Penalty: disqualification of the remaining attempts (DNF), at the discretion of the WCA Delegate.
+        - A2a3) Once called for a round, a competitor must not attempt to enter any area assigned for scrambling until all competitors in their group have no further attempts, unless permission has been granted by the WCA Delegate.
     - A2b) A scrambler scrambles the puzzle according to the regulations in [Article 4](regulations:article:4).
         - A2b1) For Square-1, the organization team may enforce placing a thin object in the puzzle to prevent accidental moves from being applied before the start of the attempt. If these objects are used, the organization team should make an announcement before the round starts.
     - A2c) After the scrambler starts scrambling the puzzle, the competitor must not see the puzzle until the inspection phase starts.
         - A2c1) The scrambler places a cover over the scrambled puzzle that makes it impossible for any competitors or spectators to see any part of the puzzle. The cover remains over the puzzle until the start of the attempt.
+        - A2c2) When competing, competitors must not actively try to watch another competitor complete an official attempt. If the competitor watches another competitor attempt a scramble they have not yet received, the corresponding attempt is recorded as DNF.
     - A2d) When taking a puzzle from the scrambler, the judge briefly inspects the puzzle to ensure thorough scrambling of the puzzle. The judge raises any concerns with the scrambler, who then conducts a detailed check.
         - A2d1) The scrambler or an authorized judge must check the scrambled puzzle, and sign the score sheet to affirm that they applied the correctly-numbered scramble sequence and checked that it matches the image (see [Regulation 4g](regulations:regulation:4g)). Exception: for 6x6x6 Cube, 7x7x7 Cube, and Megaminx the scrambler may sign to affirm that the puzzle is sufficiently scrambled (see [Regulation 4g1](regulations:regulation:4g1)). Scrambler signatures should be consistent throughout the competition and should identify the scrambler.
     - A2e) The judge places the puzzle onto the mat in an arbitrary orientation while ensuring that it remains completely covered.
