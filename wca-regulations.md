@@ -497,7 +497,8 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - B4b) The competitor must not apply moves or intentional changes in alignment to the puzzle before they have fully donned the blindfold. Penalty: disqualification of the attempt (DNF).
     - B4c) As soon as the competitor applies the first move to the puzzle, the judge must ensure that there is a sight blocker (e.g. a sheet of paper or cardboard) between the competitor's face and the puzzle.
         - B4c1) In all cases, the competitor must wear the blindfold such that their view of the puzzle would still clearly be blocked if the sight blocker were not in the way.
-        - B4c3) If the judge and competitor agree beforehand, the competitor may choose to place the puzzle behind a suitable object (e.g. a music stand, the surface of the table) by themselves during the blindfolded phase.
+        - B4c2) A sight blocker must be positioned such that the competitor's view of the puzzle would still clearly be blocked if they were not wearing a blindfold.
+        - B4c3) If the judge and competitor agree beforehand, or if required by the organization team, a suitable object (e.g. a music stand, the surface of the table) placed by the competitor may be used as the sight blocker. The competitor must make a reasonable attempt to place the sight blocker themselves. Penalty: disqualification of the attempt (DNF). If the sight blocker is not positioned such that the competitor's view of the puzzle would still clearly be blocked if they were not wearing a blindfold, an extra sight blocker should be placed by the judge.
     - B4d) The competitor must not look at the puzzle at any point during the blindfolded phase. Penalty: disqualification of the attempt (DNF).
 - B5) Stopping the solve:
     - B5a) When using the Stackmat timer, the competitor stops the solve by releasing the puzzle and then stopping the timer.
