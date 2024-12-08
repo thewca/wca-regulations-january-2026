@@ -1,6 +1,6 @@
 # <wca-title>WCA Guidelines
 
-<version>Version: January 1, 2024
+<version>Version: January 1, 2025
 
 
 ## Notes
@@ -100,8 +100,6 @@ To be more informative, each Guideline is classified using one of the following 
 - 4b4+) [CLARIFICATION] All attempts that have been started within the time frame follow the standard solving procedure (i.e. they are not stopped when the time frame of the relevant scramble sequence expires).
 - 4d+) [CLARIFICATION] Some puzzles use standard color schemes, except that white is replaced with black. In this case, black is the darkest color and must not be treated as white.
 - 4d++) [ADDITION] It is permitted for the puzzle to change its orientation when it is moved from the scrambler to the solving station, as long as no one is attempting to influence the randomness of the orientation (see [Regulation A2e1](regulations:regulation:A2e1)).
-- 4f+) [RECOMMENDATION] The WCA Delegate should generate sufficient scramble sequences for the entire competition ahead of time, including spare scramble sequences for extra attempts.
-- 4f++) [REMINDER] If the WCA Delegate generates any additional scramble sequences during the competition, the scramble sequences must be saved.
 - 4g+) [RECOMMENDATION] After verifying the puzzle is scrambled correctly, the scrambler may pass the puzzle to another scrambler to verify. In this case, both scramblers should sign the scorecard.
 - 4g1b+) [CLARIFICATION] For 5x5x5 Blindfolded, incorrect puzzle states must always be corrected.
 - 4g1b++) [RECOMMENDATION] The WCA Delegate should use stronger discretion when determining whether or not incorrect puzzle states for 5x5x5 Cube need to be corrected.
@@ -178,7 +176,6 @@ To be more informative, each Guideline is classified using one of the following 
 ## <article-12><notation><notation> Article 12: Notation
 
 - 12a2+) [CLARIFICATION] For example, both Rw and 2Rw are valid notation for the same physical move for the 3x3x3 Cube. 1Rw is not valid notation for any NxNxN Cube, and 3Rw is not valid notation for the 2x2x2 Cube or the 3x3x3 Cube (but 3Rw is valid notation for the 4x4x4 Cube and larger NxNxN Cubes).
-- 12g2+) [REMINDER] In the past, the penalty for changing state of the pins in inspection was a DNF. This is no longer the case.
 - 12g3+) [REMINDER] As clock scramble sequences end with an X+ or X- move, all pins are pushed down once the scramble sequence has been fully applied.
 - 12i+) [CLARIFICATION] Rotations do not change the puzzle state.
 
@@ -245,7 +242,6 @@ To be more informative, each Guideline is classified using one of the following 
 - E2a1+) [RECOMMENDATION] If a judge finds a submitted solution that does not appear to have information to identify the attempt, they should check both sides of the paper.
 - E2b+) [CLARIFICATION] A competitor may choose to stop an attempt early by handing in a solution before the time limit.
 - E2c+) [CLARIFICATION] Although the judge may provide a standard sheet for competitors to submit solutions, a competitor may submit a solution on a different piece of paper. (Note that the piece of paper must come from the judge, according to [Regulation E3a](regulations:regulation:E3a).)
-- E2c1+) [EXPLANATION] A competition registrant ID is an identifier (e.g. a number) assigned to a competitor for the competition. Some competitions use this to keep track of score sheets and enter results.
 - E2c1+++) [EXPLANATION] The competitor is not required to write the competition name, round, and/or attempt number on their submitted paper, but may wish to do so in order to help the organization team keep track of submitted solutions.
 - E2c2+) [EXAMPLE] Examples that are not considered a single unambiguous move sequence: multiple solution sequences without exactly one clearly indicated solution, a solution with ambiguous symbols (e.g. a letter that looks similar to "B" and "R" but is not clearly one or the other), a solution with stars or arrows indicating moves to be performed out of written order (e.g. "insertions" that are not written in-line with the rest of the move sequence, "pre-moves" that are not incorporated into the move sequence using valid notation), a move sequence that is not written out roughly as a series of lines in reading order, any arrangement of symbols that cannot be interpreted as an unambiguous move sequence. Exceptions to the examples above: small typographic corrections (e.g. blacking out moves and writing moves above that are clearly meant to replace them, moves written in subscript or superscript to fit between other moves).
 - E2c2++) [REMINDER] In the past, bracket notations (e.g. [r] or [u2]) were permitted for Fewest Moves. Only rotations based on x, y, or z are permitted now (see [Regulation 12a4a](regulations:regulation:12a4a)).
