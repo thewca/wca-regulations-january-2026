@@ -212,7 +212,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 
 ## <article-7><environment><environment> Article 7: Environment
 
-- 7b) Spectators must remain at least 1.5 meters away from the solving stations when they are in use.
+- 7b) Spectators must remain at least 2 meters away from the solving stations when they are in use.
 - 7c) Lighting of the competition area must be given special attention. Lighting should be neutral, such that competitors can easily differentiate among the colors on the puzzles.
 - 7e) The competition area must be smoke-free.
 - 7f) Solving station:
