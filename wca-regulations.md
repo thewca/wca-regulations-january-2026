@@ -296,7 +296,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 7f1a) Speedsolving timer: An approved timer from the [Approved timers list](link).
         - 7f1a+) [CLARIFICATION] A full-size mat should have minimum dimensions of 30cm (left to right) by 25cm (front to back).
         - 7f1b) Mat: The mat of the speedsolving timer.
-        - 7f1c) Timer: The timer of the speedsolving timer, or a stopwatch (for longer attempts).
+        - 7f1c) Timer: The speedsolving timer or a stopwatch (for longer attempts).
         - 7f1d) Surface: The flat surface on which the speedsolving timer is placed. The mat is considered a part of the surface. The timer is not considered a part of the surface.
     - 7f2) The speedsolving timer must be attached to the mat and placed on the surface, with the timer on the side of the mat nearest to the competitor.
     - 7f3) The organization team should modify speedsolving timers to be more robust against common incidents, by making the buttons more difficult to press by accident (e.g. by attaching O-rings around the buttons) and securing the battery more firmly (e.g. by padding the battery compartment).
