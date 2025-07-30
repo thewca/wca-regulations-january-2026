@@ -293,7 +293,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 7e) The competition area must be smoke-free.
 - 7f) Solving station:
     - 7f1) Definitions:
-        - 7f1a) Speedsolving timer: An approved timer and a full-size compatible mat. Timers from [Approved timers list](link) must be used for time measurement.
+        - 7f1a) Speedsolving timer: An approved timer from the [Approved timers list](link).
         - 7f1a+) [CLARIFICATION] A full-size mat should have minimum dimensions of 30cm (left to right) by 25cm (front to back).
         - 7f1b) Mat: The mat of the speedsolving timer.
         - 7f1c) Timer: The timer of the speedsolving timer, or a stopwatch (for longer attempts).
