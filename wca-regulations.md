@@ -570,7 +570,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A2d1+++) [REMINDER] Although the WCA Delegate may allow several individual attempts with missing scramble signatures to count, they should ensure that missing scramble signatures do not become common.
     - A2e) The judge places the puzzle onto the mat in an arbitrary orientation while ensuring that it remains completely covered.
         - A2e1) The competitor is not permitted to request a specific orientation, and the judge must not influence the orientation they place the puzzle on the mat based on what they know or expect the puzzle state to be.
-        - A2e2) The competitor must not remove the cover themselves. Penalty: disqualification of the attempt (DNF).
+        - A2e2) The competitor must not remove the cover themselves. Penalty: disqualification of the attempt (DNF). Exception: if the competitor removes the cover accidentally and does not look at the puzzle before the cover is replaced, the attempt may continue, at the discretion of the WCA Delegate.
 - A3) Inspection:
     - A3a) The competitor may inspect the puzzle at the start of each attempt.
         - A3a1) The competitor is allotted strictly less than 15 seconds to inspect the puzzle and start the solve.
