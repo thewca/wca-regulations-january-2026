@@ -114,7 +114,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 2i1d) Food and drink.
     - 2i2) The following electronic aids are not permitted at any point during the attempt. Exception: If non-permitted aids are discovered, completed attempts need not be disqualified if the competitor did not receive assistance from their use, at the discretion of the WCA Delegate (see [Regulation A5b](regulations:regulation:A5b)), however the competitor must not be permitted to perform any further attempts with such aids.
         - 2i2a) Front facing camera monitors. Competitors may use cameras at the solving station as long as the live feed of the camera is not visible to the competitor at any point.
-        - 2i2b) Electronic headphones and ear buds worn in/over the ear, including those not plugged in or connected.
+        - 2i2b) Electronic headphones and ear buds worn in/over the ear, including those not plugged in or connected. Exception: medical devices of this sort may be used if the competitor does not have a comfortable non-electronic alternatives (e.g. if the competitor has a personal hearing aid).
     - 2i4) Competitors should turn off all cell phone notifications while competing to avoid disturbing the competition.
 - 2j) The WCA Delegate may disqualify a competitor from specific attempts and/or events.
     - 2j1) If a competitor is disqualified from an event for any reason, they are not eligible for any more attempts in the event.
