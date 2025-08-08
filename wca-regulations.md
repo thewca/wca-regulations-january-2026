@@ -189,7 +189,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 3h3) Any modifications to a puzzle that result in poor performance by a competitor are not grounds for additional attempts.
     - 3h4) For Clock, the following modifications are permitted:
     - 3h4+) [CLARIFICATION] For Clock, visual modifications that enhance the ability to determine the orientation of the puzzle are permitted, as traditional puzzle designs already provide this information.
-        - 3h4a) Custom "inserts" (the same shape and size as the traditional paper inserts) are permitted, at the discretion of the WCA Delegate. The inserts must have a clear indication of all 12 possible dial positions on all dials, with a distinct indication at 12 o'clock that matches the original inserts.
+        - 3h4a) Custom "inserts" (the same shape and size as the traditional paper inserts) are permitted, at the discretion of the WCA Delegate. The inserts must have a 12 clear hour markers for each inner clock face, with a distinct indication at 12 o'clock that matches the original inserts.
         - 3h4b) Puzzle design customizations that do not give an unfair advantage may be permitted, at the discretion of the WCA Delegate (e.g. checkerboard pattern clocks, faces with a custom design, tape on the side of the Clock).
         - 3h4c) Customizations which distinguish pins from other pins of the same side are permitted, at the discretion of the WCA Delegate.
         - 3h4d) Logos anywhere on the puzzle, as long as the inner clock faces remain uncovered.
