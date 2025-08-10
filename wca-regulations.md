@@ -366,8 +366,8 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9m2) Rounds with 15 or fewer competitors must have at most one subsequent round.
     - 9m3) Rounds with 7 or fewer competitors must not have subsequent rounds.
 - 9o) For the purposes of counting the number of rounds per event:
-    9o1) Cutoff Rounds count as one round.
-    9o2) Dual Rounds count as two rounds.
+    - 9o1) Cutoff Rounds count as one round.
+    - 9o2) Dual Rounds count as two rounds.
 - 9p) If an event has multiple rounds, then:
     - 9p1) At least 25% of competitors must be eliminated between consecutive rounds of the same event. Exception: Dual Rounds (see [Regulation 9v5](regulations:regulation:9v5)).
     - 9p2) The competitors who advance to the next round must be determined by ranking (best X competitors) or by result (all competitors with a better result than X) in the preceding round.
