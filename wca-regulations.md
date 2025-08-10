@@ -602,6 +602,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A4d2+) [CLARIFICATION] If the inspection took exactly 17 seconds (i.e. 17.00), the attempt must be disqualified (DNF).
         - A4d3) If a stopwatch is in use, the judge starts the stopwatch as soon as the competitor starts the solve.
     - A4e) Time penalties for starting the solve are cumulative.
+    - A4f) The competitor is responsible for starting the speedsolving timer correctly.
 - A5) During the solve:
     - A5a) While inspecting or solving the puzzle, the competitor must not communicate with anyone other than the judge or the WCA Delegate. Penalty: disqualification of the attempt (DNF). Exception: If the competitor does not gain an advantage by communicating with anyone other than the judge or the WCA Delegate, the result may stand, at the discretion of the WCA Delegate.
     - A5b) While inspecting or solving the puzzle, the competitor must not receive assistance from anyone or any object other than the surface (also see [Regulation 2i](regulations:regulation:2i)). Penalty: disqualification of the attempt (DNF).
