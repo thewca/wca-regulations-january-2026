@@ -135,7 +135,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 2k) At the discretion of the WCA Delegate, a competitor may be disqualified from specific attempts and/or events (a single event, multiple events, or all events) if the competitor:
     - 2k1) Fails to check in or register in time for the competition.
     - 2k2) Is suspected of cheating or defrauding the officials during the competition.
-        - 2k2a) The WCA Delegate may disqualify any suspected results.
+        - 2k2a) The WCA Delegate may disqualify any results for a competitor suspected of cheating or defrauding, including results for attempts where cheating or defrauding is not suspected.
     - 2k3) Behaves in a way that is unlawful/violent/indecent/unsafe, or intentionally damages venue facilities or personal property within the venue.
     - 2k4) Distracts or interferes with others during the competition.
     - 2k5) Fails to abide by WCA Regulations during the competition.
