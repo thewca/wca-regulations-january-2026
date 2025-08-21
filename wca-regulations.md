@@ -287,7 +287,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 5d) The competitor is not permitted to cause a puzzle defect intentionally. Examples of intentionally causing puzzle defects: removing an attached center cap, rotating a corner piece, peeling a sticker.
     - 5d1) Exception: the competitor may intentionally cause a puzzle defect while repairing a previous puzzle defect (see [Regulation 5b3b](regulations:regulation:5b3b) and [Regulation 5b3c](regulations:regulation:5b3c)).
     - 5d2) Exception: if a competitor incorrectly fixes an existing puzzle defect, for example by rotating a corner piece in the wrong direction (see [Regulation 5b3c](regulations:regulation:5b3c)), this is not considered intentionally causign a puzzle defect.
-    - 5d2) Penalty for intentionally causing a puzzle defect: disqualification of the attempt (DNF).
+    - 5d3) Penalty for intentionally causing a puzzle defect: disqualification of the attempt (DNF).
 
 
 ## <article-7><environment><environment> Article 7: Environment
