@@ -456,7 +456,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 11f2c) To investigate cheating (see [Regulation 2k](regulations:regulation:2k)).
 - 11g) The WCA Delegate must ensure that the Regulations are available (e.g. printed, digital, or accessible via internet) to officials and competitors for consultation on any incidents.
 - 11h) A WCA Delegate may require competitors in serious violation of [Regulation 2k3](regulations:regulation:2k3) to leave the competition venue, taking into account the seriousness of the situation and the best possible course of action. If the competitor refuses to do so, they may face disciplinary action in the WCA.
-- 11i) If it is found that a competitor's puzzle was not scrambled correctly after they have completed their solve, the following regulations apply:
+- 11i) If it is found after an attemmpt was completed that a competitor's puzzle was not scrambled correctly in a way that requires more than one move to become correctly scrambled, the following regulations apply:
     - 11i1) In the following cases, an extra attempt must be granted to replace the affected attempt. If no extra attempt is granted, the result will be considered DNS:
     - 11i1+) [RECOMMENDATION] Competitors expected to meet these criteria should have their scrambles checked by a second scrambler before being sent out (see [Regulation 4g+](regulations:regulation:4g+)).
         - 11i1a) The individual result is a regional record, or is a personal record in the top 50 competitors of the world rankings.
