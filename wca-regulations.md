@@ -113,13 +113,13 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 2i2b) Non-electronic earplugs and earmuffs, but not electronic headphones and earbuds (see [Regulation 2i3a](regulations:regulation:2i3a))
         - 2i2c) Food and drink.
         - 2i2d) Electronic or non-electronic hand warmers.
-        - 2i2a) Cameras, including cellphones used as cameras. However, such aids should not be permitted where information is shown through a screen visible to the competitor (see [Regulation 2i3b](regulations:regulation:2i3b)).
+        - 2i2e) Cameras, including cellphones used as cameras. However, such aids should not be permitted where information is shown through a screen visible to the competitor (see [Regulation 2i3b](regulations:regulation:2i3b)).
     - 2i3) Examples of aids that should not be permitted:
         - 2i3a) Any device capable of playing audio to the competitor that would not be audible to the judge (e.g. elecronic headphones and earbuds). This includes relevant devices which are switched off or disconnected. Exception: medical aids of this sort (e.g. hearing aids) may be permitted if the competitor does not have a comfortable alternative.
         - 2i3b) Any device capable of displaying information through an active screen visible to the competitor (e.g. a cellphone or tablet computer).
-        - 2i3b) Written notes or other reference material containing information on how to solve a puzzle.
-        - 2i3e) An additional puzzle of the same type used in the current event, or another type.
-        - 2i3f) Additional lighting.
+        - 2i3c) Written notes or other reference material containing information on how to solve a puzzle.
+        - 2i3d) An additional puzzle of the same type used in the current event, or another type.
+        - 2i3e) Additional lighting.
 - 2j) The WCA Delegate may disqualify a competitor from specific attempts and/or events.
     - 2j1) If a competitor is disqualified from an event for any reason, they are not eligible for any more attempts in the event.
         - 2j1a) If the competitor has already started at least one attempt in a round before being disqualified from it, the results of all remaining attempts in the event are recorded as DNF. If the competitor has started no attempts (i.e. has no results or only has DNS results), no results are recorded.
