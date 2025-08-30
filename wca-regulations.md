@@ -118,7 +118,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 2i3a) Any device capable of playing audio to the competitor that would not be audible to the judge (e.g. electronic headphones and earbuds). This includes relevant devices which are switched off or disconnected. Exception: medical aids of this sort (e.g. hearing aids) may be permitted if the competitor does not have a comfortable alternative.
         - 2i3b) Any device capable of displaying information through an active screen visible to the competitor (e.g. a cellphone or tablet computer).
         - 2i3c) Written notes or other reference material containing information on how to solve a puzzle.
-        - 2i3d) An additional puzzle of the same type used in the current event, or another type.
+        - 2i3d) Another puzzle.
         - 2i3e) Additional lighting.
 - 2j) The WCA Delegate may disqualify a competitor from specific attempts and/or events.
     - 2j1) If a competitor is disqualified from an event for any reason, they are not eligible for any more attempts in the event.
