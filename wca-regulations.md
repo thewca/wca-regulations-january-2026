@@ -106,12 +106,12 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 2g3) Competitors in a group in progress must not communicate with other competitors in the group about the scrambled states of the group, unless all such competitors are not eligible for any further attempts in the group. Penalty: disqualification of the competitor(s) from the event, at the discretion of the WCA Delegate. Exception: For 3x3x3 Fewest Moves and 3x3x3 Multi-Blind, competitors that have finished their attempt may share and discuss the scramble sequence(s) with other competitors in the group who have either finished their attempt or declined their attempt.
         - 2g3a) For rounds where results are being entered live, the organization team may enforce that competitors are not permitted to view the results entered from their group until they have completed their attempts.
 - 2h) Competitors must be appropriately dressed while in the competition venue. At the discretion of the WCA Delegate, competitors may be disqualified from the competition for inappropriate clothing.
-- 2i) While inspecting or solving, competitors may use aids that do not give an unfair advantage, at the discretion of the WCA Delegate. 
+- 2i) While inspecting or solving, competitors may use aids that do not give an unfair advantage, at the discretion of the WCA Delegate.
     - 2i1) Penalty for using a non-permited aid: disqualification of the attempt (DNF). Exception: if a non-permitted aid is used, the current attempt and any completed attempts do not need be disqualified if the competitor did not gain an unfair advantage from the aid, at the discretion of the WCA Delegate, however the competitor must not be permitted to perform any further attempts with the aid.
     - 2i2) Examples of aids that should be permitted:
         - 2i2a) Medical/physical aids worn by the competitor (e.g. glasses, wrist brace).
         - 2i2b) Non-electronic earplugs and earmuffs, but not electronic headphones and earbuds (see [Regulation 2i3a](regulations:regulation:2i3a))
-        - 2i2c) Food and drink
+        - 2i2c) Food and drink.
         - 2i2d) Electronic or non-electronic hand warmers.
         - 2i2a) Cameras, including cellphones used as cameras. However, such aids should not be permitted where information is shown through a screen visible to the competitor (see [Regulation 2i3b](regulations:regulation:2i3b)).
     - 2i3) Examples of aids that should not be permitted:
