@@ -337,19 +337,19 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 9f4a) If a competitor violates a regulation clearly enough that the attempt is certain to be disqualified, the judge should immediately stop the attempt. If the judge is uncertain or a dispute could be disruptive (e.g. because an extra attempt could delay the competition), the judge should consult the WCA Delegate.
     - 9f5) The result of an attempt is recorded as DNS (Did Not Start) if the competitor was eligible for the attempt and did not start it (see [Regulation A3b2](regulations:regulation:A3b2)).
     - 9f5+) [CLARIFICATION] If the competitor did not qualify for an attempt (e.g. in a Cutoff Round), they have no result for the attempt.
-    - 9f6) For "Best of X" rounds, each competitor is allotted X attempts. The best result of these attempts determines the competitor's ranking in the round.
-    - 9f7) For "Best of X" rounds, a DNF or DNS is the worst possible result.
-    - 9f8) For "Average of 5" rounds, competitors are allotted 5 attempts. Of these 5 attempts, the best and worst attempts are removed, and the arithmetic mean of the remaining 3 attempts determines the competitor's ranking in the round.
-    - 9f9) For "Average of 5" rounds, one DNF or DNS is permitted to count as the competitor's worst result of the round. If a competitor has more than one DNF and/or DNS result in the round, their average result for the round is DNF.
-    - 9f10) For "Mean of 3" rounds, competitors are allotted 3 attempts. The arithmetic mean of the 3 attempts determines the competitor's ranking in the round.
-    - 9f11) For "Mean of 3" rounds, if the competitor has at least one DNF or DNS result, their average result for the round is DNF.
-    - 9f12) For "Best of X" rounds, rankings are assessed based on the best result per competitor. The following are used to compare results:
+    - 9f6) For "Best of X" formats, each competitor is allotted X attempts. The best result of these attempts determines the competitor's ranking in the round. Exception: for Dual Rounds (see [Regulation 9v4](regulations:regulation:9v4)), the best result from either round determines the competitor's ranking.
+    - 9f7) For "Best of X" formats, a DNF or DNS is the worst possible result.
+    - 9f8) For the "Average of 5" format, competitors are allotted 5 attempts. Of these 5 attempts, the best and worst attempts are removed, and the arithmetic mean of the remaining 3 attempts determines the competitor's ranking in the round. Exception: for Dual Rounds (see [Regulation 9v4](regulations:regulation:9v4)), the best average from either round determines the competitor's ranking.
+    - 9f9) For the "Average of 5" format, one DNF or DNS is permitted to count as the competitor's worst result of the round. If a competitor has more than one DNF and/or DNS result in the round, their average result for the round is DNF.
+    - 9f10) For the "Mean of 3" format, competitors are allotted 3 attempts. The arithmetic mean of the 3 attempts determines the competitor's ranking in the round. Exception: for Dual Rounds (see [Regulation 9v4](regulations:regulation:9v4)), the better mean from either round determines the competitor's ranking.
+    - 9f11) For the "Mean of 3" format, if the competitor has at least one DNF or DNS result, their average result for the round is DNF.
+    - 9f12) For "Best of X" formats, the following are used to compare results:
         - 9f12a) For timed results, "better" is defined as the shorter time.
         - 9f12b) For 3x3x3 Fewest Moves, "better" is defined as the shorter solution length.
         - 9f12c) For 3x3x3 Multi-Blind, rankings are assessed based on the number of puzzles solved minus the number of puzzles not solved, where a greater difference is better. If the difference is less than 0, or if only 1 puzzle is solved, the attempt is considered unsolved (DNF). If competitors achieve the same result, rankings are assessed based on total time, where the shorter recorded time is better. If competitors achieve the same result and the same time, rankings are assessed based on the number of puzzles the competitors failed to solve, where fewer unsolved puzzles are better.
-    - 9f13) For "Mean of 3" and "Average of 5" rounds, rankings are assessed based on the ordering of the averages/means of the competitors, where "better" is the smaller recorded result.
-    - 9f14) For "Mean of 3" and "Average of 5" rounds, if two or more competitors achieve identical average/mean results, rankings are assessed based on the best attempt per competitor, where "better" is defined as the smaller recorded result.
-    - 9f15) Competitors who achieve the same result in a round receive an identical ranking for the round.
+    - 9f13) For "Mean of 3" and "Average of 5" formats, rankings are assessed based on the ordering of the averages/means of the competitors, where "better" is the smaller recorded result.
+    - 9f14) For "Mean of 3" and "Average of 5" formats, if two or more competitors achieve identical average/mean results, rankings are assessed based on the best attempt per competitor, where "better" is defined as the smaller recorded result.
+    - 9f15) Competitors who achieve the same result receive an identical ranking.
 - 9g) A Cutoff Round is a round with a "Best of X" cutoff phase and a cutoff requirement (e.g. "Best of 2" with a cutoff requirement of strictly better than 2 minutes). If the competitor satisfies the cutoff requirement in at least one of their cutoff phase attempts, they are eligible for the remaining attempts. Attempts from the cutoff phase count towards the full round format.
 - 9i) Results of official WCA competitions must be listed on the WCA world rankings.
     - 9i1) The WCA recognizes the following types of regional records: national records, continental records, and world records.
@@ -357,17 +357,20 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9i3) If the WCA Regulations for an event are changed, existing regional records stand until they are broken under the new WCA Regulations.
 - 9j) Each event must be held at most once per competition.
 - 9k) All competitors may participate in all events of a competition, except in cases specifically approved by the WCA Competition Announcement Team.
-- 9l) Each round must be completed before any following round of the same event can start. Exception: Extra attempts may be given at any point during a competition to replace an attempt that was initially invalid.
-    - 9l1) An attempt is considered invalid if an extra attempt is required to be granted.
+- 9l) Each round must be completed before any following round of the same event can start. The following exceptions apply:
+    - 9l1) Extra attempts may be given at any point during a competition to replace an attempt that was initially invalid. An attempt is considered invalid if an extra attempt is required to be granted.
     - 9l1+) [CLARIFICATION] A DNF Result is generally considered a valid result. Extra attempts must not be given for using a non-permitted puzzle that is only found after the round is complete (see [Regulation 3k2a](regulations:regulation:3k2a)).
     - 9l1++) [EXAMPLE] Examples of an invalid attempt: an attempt that was incorrectly scrambled, attempts where the results are no longer retrievable (e.g. a missing scorecard).
+    - 9l2) For Dual Rounds, the second round may start before the first round is completed. This is because progression to the second round does not depend upon the results of the first round (see [Regulation 9v5](regulations:regulation:9v5)).
 - 9m) Events must have at most four rounds.
     - 9m1) Rounds with 99 or fewer competitors must have at most two subsequent rounds.
     - 9m2) Rounds with 15 or fewer competitors must have at most one subsequent round.
     - 9m3) Rounds with 7 or fewer competitors must not have subsequent rounds.
-- 9o) Cutoff Rounds count as one round when counting the number of rounds per event.
+- 9o) For the purposes of counting the number of rounds per event:
+    - 9o1) Cutoff Rounds count as one round.
+    - 9o2) Dual Rounds count as two rounds.
 - 9p) If an event has multiple rounds, then:
-    - 9p1) At least 25% of competitors must be eliminated between consecutive rounds of the same event.
+    - 9p1) At least 25% of competitors must be eliminated between consecutive rounds of the same event. Exception: Dual Rounds (see [Regulation 9v5](regulations:regulation:9v5)).
     - 9p2) The competitors who advance to the next round must be determined by ranking (best X competitors) or by result (all competitors with a better result than X) in the preceding round.
     - 9p2+) [CLARIFICATION] Result refers to the single or average that determines the ranking of the corresponding round.
         - 9p2a) For each round, advancement conditions must be announced before the round starts, and should not be changed after it has begun. Changes must be made at the discretion of the WCA Delegate, who must carefully consider the fairness of the change.
@@ -395,6 +398,14 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 9u2a) All the listed WCA Delegates permanently leave the venue.
         - 9u2b) The end of the last calendar date of the competition is reached.
         - 9u2b+) [ADDITION] The calendar date of the end of the competition is determined by the local time for the location in which the competition took place.
+- 9v) Two consecutive rounds of an event may be designated as Dual Rounds.
+    - 9v1) Dual Rounds may include only the first two rounds of an event.
+    - 9v2) Dual Rounds must not include the final round of a National Championship, Continental Championship or World Championship.
+    - 9v3) Dual Rounds must have the same format, cutoff, and time limit.
+    - 9v4) The competitor’s ranking in Dual Rounds is based on the better result of either round.
+        - 9v4a) The results of both rounds are recorded and are eligible for the WCA world rankings (see [Regulation 9i](regulations:regulation:9i)) and regional records (see [Regulation 9i1](regulations:regulation:9i1)).
+    - 9v5) No competitors are eliminated between rounds during Dual Rounds.
+        - 9v5a) Competitors with no results in the first round or results of only DNF and/or DNS in the first round are eligible to advance to the second round.
 
 
 ## <article-10><solved-state><solvedstate> Article 10: Solved State
