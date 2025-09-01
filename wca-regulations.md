@@ -393,8 +393,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9u2) The WCA Delegate has announced the end of the competition. If the WCA Delegate does not announce the end of the competition, either of the following takes the place of this announcement (whichever comes first):
     - 9u2+) [RECOMMENDATION] The WCA Delegate should announce the end of the competition (e.g. prior to the awards ceremony).
         - 9u2a) All the listed WCA Delegates permanently leave the venue.
-        - 9u2b) The end of the last calendar date of the competition is reached.
-        - 9u2b+) [ADDITION] The calendar date of the end of the competition is determined by the local time for the location in which the competition took place.
+        - 9u2b) The end of the last calendar date of the competition is reached (see [Regulation 9i2](regulations:regulation:9i2)).
 
 
 ## <article-10><solved-state><solvedstate> Article 10: Solved State
