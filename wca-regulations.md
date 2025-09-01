@@ -106,20 +106,19 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 2g3) Competitors in a group in progress must not communicate with other competitors in the group about the scrambled states of the group, unless all such competitors are not eligible for any further attempts in the group. Penalty: disqualification of the competitor(s) from the event, at the discretion of the WCA Delegate. Exception: For 3x3x3 Fewest Moves and 3x3x3 Multi-Blind, competitors that have finished their attempt may share and discuss the scramble sequence(s) with other competitors in the group who have either finished their attempt or declined their attempt.
         - 2g3a) For rounds where results are being entered live, the organization team may enforce that competitors are not permitted to view the results entered from their group until they have completed their attempts.
 - 2h) Competitors must be appropriately dressed while in the competition venue. At the discretion of the WCA Delegate, competitors may be disqualified from the competition for inappropriate clothing.
-- 2i) While inspecting or solving, competitors may use aids that do not give an unfair advantage, at the discretion of the WCA Delegate.
-    - 2i1) Penalty for using a non-permited aid: disqualification of the attempt (DNF). Exception: if a non-permitted aid is used, the current attempt and any completed attempts do not need be disqualified if the competitor did not gain an unfair advantage from the aid, at the discretion of the WCA Delegate, however the competitor must not be permitted to perform any further attempts with the aid.
-    - 2i2) Examples of aids that should be permitted:
-        - 2i2a) Medical/physical aids worn by the competitor (e.g. glasses, wrist brace).
-        - 2i2b) Non-electronic earplugs and earmuffs, but not electronic headphones and earbuds (see [Regulation 2i3a](regulations:regulation:2i3a))
-        - 2i2c) Food and drink.
-        - 2i2d) Electronic or non-electronic hand warmers.
-        - 2i2e) Cameras, including cellphones used as cameras. Camera monitors must be blank or out of sight of the competitor.
-    - 2i3) Examples of aids that must not be permitted to use during an attempt:
-        - 2i3a) Devices capable of playing audio to the competitor that would not be audible to the judge (e.g. electronic headphones and earbuds). This includes relevant devices which are switched off or disconnected. Exception: medical aids of this sort (e.g. hearing aids) may be permitted if the competitor does not have a comfortable alternative.
-        - 2i3b) Devices used to display information through an active screen visible to the competitor (e.g. a cellphone or tablet computer).
-        - 2i3c) Written notes or other reference material containing information on how to solve a puzzle.
-        - 2i3d) Other puzzles.
-        - 2i3e) Additional lighting.
+- 2i) While inspecting or solving, competitors may use aids that do not give an unfair advantage, at the discretion of the WCA Delegate.Penalty for using a non-permited aid: disqualification of the attempt (DNF). Exception: if a non-permitted aid is used, the current attempt and any completed attempts do not need be disqualified if the competitor did not gain an unfair advantage from the aid, at the discretion of the WCA Delegate, however the competitor must not be permitted to perform any further attempts with the aid.
+    - 2i1) Examples of aids that should be permitted:
+        - 2i1a) Medical/physical aids worn by the competitor (e.g. glasses, wrist brace).
+        - 2i1b) Non-electronic earplugs and earmuffs, but not electronic headphones and earbuds (see [Regulation 2i3a](regulations:regulation:2i3a))
+        - 2i1c) Food and drink.
+        - 2i1d) Electronic or non-electronic hand warmers.
+        - 2i1e) Cameras, including cellphones used as cameras. Camera monitors must be blank or out of sight of the competitor.
+    - 2i2) Examples of aids that must not be permitted to use during an attempt:
+        - 2i2a) Devices capable of playing audio to the competitor that would not be audible to the judge (e.g. electronic headphones and earbuds). This includes relevant devices which are switched off or disconnected. Exception: medical aids of this sort (e.g. hearing aids) may be permitted if the competitor does not have a comfortable alternative.
+        - 2i2b) Devices used to display information through an active screen visible to the competitor (e.g. a cellphone or tablet computer).
+        - 2i2c) Written notes or other reference material containing information on how to solve a puzzle.
+        - 2i2d) Other puzzles.
+        - 2i2e) Additional lighting.
 - 2j) The WCA Delegate may disqualify a competitor from specific attempts and/or events.
     - 2j1) If a competitor is disqualified from an event for any reason, they are not eligible for any more attempts in the event.
         - 2j1a) If the competitor has already started at least one attempt in a round before being disqualified from it, the results of all remaining attempts in the event are recorded as DNF. If the competitor has started no attempts (i.e. has no results or only has DNS results), no results are recorded.
