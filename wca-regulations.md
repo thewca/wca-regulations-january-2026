@@ -113,7 +113,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 2i2b) Non-electronic earplugs and earmuffs, but not electronic headphones and earbuds (see [Regulation 2i3a](regulations:regulation:2i3a))
         - 2i2c) Food and drink.
         - 2i2d) Electronic or non-electronic hand warmers.
-        - 2i2e) Cameras, including cellphones used as cameras. However, such aids should not be permitted where information is shown through a screen visible to the competitor (see [Regulation 2i3b](regulations:regulation:2i3b)).
+        - 2i2e) Cameras, including cellphones used as cameras. Camera monitors must be blank or out of sight of the competitor.
     - 2i3) Examples of aids that must not be permitted to use during an attempt:
         - 2i3a) Any device capable of playing audio to the competitor that would not be audible to the judge (e.g. electronic headphones and earbuds). This includes relevant devices which are switched off or disconnected. Exception: medical aids of this sort (e.g. hearing aids) may be permitted if the competitor does not have a comfortable alternative.
         - 2i3b) Any device capable of displaying information through an active screen visible to the competitor (e.g. a cellphone or tablet computer).
