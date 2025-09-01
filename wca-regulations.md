@@ -115,10 +115,10 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 2i2d) Electronic or non-electronic hand warmers.
         - 2i2e) Cameras, including cellphones used as cameras. Camera monitors must be blank or out of sight of the competitor.
     - 2i3) Examples of aids that must not be permitted to use during an attempt:
-        - 2i3a) Any device capable of playing audio to the competitor that would not be audible to the judge (e.g. electronic headphones and earbuds). This includes relevant devices which are switched off or disconnected. Exception: medical aids of this sort (e.g. hearing aids) may be permitted if the competitor does not have a comfortable alternative.
-        - 2i3b) A device used to display information through an active screen visible to the competitor (e.g. a cellphone or tablet computer).
+        - 2i3a) Devices capable of playing audio to the competitor that would not be audible to the judge (e.g. electronic headphones and earbuds). This includes relevant devices which are switched off or disconnected. Exception: medical aids of this sort (e.g. hearing aids) may be permitted if the competitor does not have a comfortable alternative.
+        - 2i3b) Devices used to display information through an active screen visible to the competitor (e.g. a cellphone or tablet computer).
         - 2i3c) Written notes or other reference material containing information on how to solve a puzzle.
-        - 2i3d) Another puzzle.
+        - 2i3d) Other puzzles.
         - 2i3e) Additional lighting.
 - 2j) The WCA Delegate may disqualify a competitor from specific attempts and/or events.
     - 2j1) If a competitor is disqualified from an event for any reason, they are not eligible for any more attempts in the event.
