@@ -353,7 +353,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 9g) A Cutoff Round is a round with a "Best of X" cutoff phase and a cutoff requirement (e.g. "Best of 2" with a cutoff requirement of strictly better than 2 minutes). If the competitor satisfies the cutoff requirement in at least one of their cutoff phase attempts, they are eligible for the remaining attempts. Attempts from the cutoff phase count towards the full round format.
 - 9i) Results of official WCA competitions must be listed on the WCA world rankings.
     - 9i1) The WCA recognizes the following types of regional records: national records, continental records, and world records.
-    - 9i2) All the results of a round are considered to take place on the last calendar date of the round. If a regional record is broken multiple times on the same calendar date, only the best result is recognized as breaking that regional record.
+    - 9i2) All the results of a round are considered to take place on the last calendar date of the round, based on the local time at the competition location. If a regional record is broken multiple times on the same calendar date, only the best result is recognized as breaking that regional record. For competitions with multiple physical locations (i.e. "3x3x3 Fewest Moves simultaneous competitions"), the calendar date is the latest date at any competition location.
     - 9i3) If the WCA Regulations for an event are changed, existing regional records stand until they are broken under the new WCA Regulations.
 - 9j) Each event must be held at most once per competition.
 - 9k) All competitors may participate in all events of a competition, except in cases specifically approved by the WCA Competition Announcement Team.
@@ -393,8 +393,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9u2) The WCA Delegate has announced the end of the competition. If the WCA Delegate does not announce the end of the competition, either of the following takes the place of this announcement (whichever comes first):
     - 9u2+) [RECOMMENDATION] The WCA Delegate should announce the end of the competition (e.g. prior to the awards ceremony).
         - 9u2a) All the listed WCA Delegates permanently leave the venue.
-        - 9u2b) The end of the last calendar date of the competition is reached.
-        - 9u2b+) [ADDITION] The calendar date of the end of the competition is determined by the local time for the location in which the competition took place.
+        - 9u2b) The end of the last calendar date of the competition is reached (see [Regulation 9i2](regulations:regulation:9i2)).
 
 
 ## <article-10><solved-state><solvedstate> Article 10: Solved State
